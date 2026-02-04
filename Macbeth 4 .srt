@@ -1,0 +1,1659 @@
+1
+00:00:00,000 --> 00:00:05,000
+The tragedy of McBeth act for, by William Shakespeare.
+
+2
+00:00:05,000 --> 00:00:06,000
+Drama.
+
+3
+00:00:06,000 --> 00:00:08,000
+Review and anticipate.
+
+4
+00:00:08,000 --> 00:00:14,000
+In act 3, McBeth hires murderers to kill Banquo and Banquo's son Fliens.
+
+5
+00:00:14,000 --> 00:00:19,000
+The murderers botched the job, killing Banquo but allowing Fliens to escape.
+
+6
+00:00:19,000 --> 00:00:25,000
+Then, at a state banquet, McBeth is shocked to see the ghost of Banquo sitting in the king's chair.
+
+7
+00:00:25,000 --> 00:00:30,000
+McBeth decides to visit the witches again, determined to know the worst.
+
+8
+00:00:30,000 --> 00:00:35,000
+At the end of act 3, we learn that Malcolm is in England preparing to invade Scotland,
+
+9
+00:00:35,000 --> 00:00:38,000
+and that McBeth has gone to join him.
+
+10
+00:00:38,000 --> 00:00:42,000
+In act 4, McBeth seeks help from the witches to secure his power.
+
+11
+00:00:42,000 --> 00:00:47,000
+The forces of good, however, are beginning to gather against him.
+
+12
+00:00:47,000 --> 00:00:49,000
+Scene 1.
+
+13
+00:00:49,000 --> 00:00:50,000
+A witch's haunt.
+
+14
+00:00:50,000 --> 00:00:52,000
+Thunder.
+
+15
+00:00:52,000 --> 00:00:54,000
+Enter the three witches.
+
+16
+00:00:54,000 --> 00:00:57,000
+Thrice the brim did cat-athmute.
+
+17
+00:00:57,000 --> 00:01:01,000
+Thrice and once the hedge pig wine.
+
+18
+00:01:01,000 --> 00:01:03,000
+Harp your cries.
+
+19
+00:01:03,000 --> 00:01:05,000
+Dis time.
+
+20
+00:01:05,000 --> 00:01:06,000
+Dis time.
+
+21
+00:01:06,000 --> 00:01:09,000
+Round about the cold wringo.
+
+22
+00:01:09,000 --> 00:01:16,000
+In the poisoned entrails throw, toad that under cold stone days and nights.
+
+23
+00:01:16,000 --> 00:01:18,000
+Has that he won?
+
+24
+00:01:18,000 --> 00:01:25,000
+Sweltreed venom sleeping got boiled out first either charmed pot.
+
+25
+00:01:25,000 --> 00:01:29,000
+Double, double, toil and sorrow.
+
+26
+00:01:29,000 --> 00:01:34,000
+Fire, run and cold run, bubble.
+
+27
+00:01:34,000 --> 00:01:40,000
+Fill it up a thinny snake in the cauldron boil and bake.
+
+28
+00:01:40,000 --> 00:01:46,000
+I have knew, then, toe of frog, will of that,
+
+29
+00:01:46,000 --> 00:01:53,000
+and tongue of dog, adors fork and blind worm sting.
+
+30
+00:01:53,000 --> 00:02:01,000
+Lizard's leg and howl it's wing for a charm of powerful trouble.
+
+31
+00:02:01,000 --> 00:02:06,000
+Like a hill-broth boil and bubble.
+
+32
+00:02:06,000 --> 00:02:10,000
+Double, toil and sorrow.
+
+33
+00:02:10,000 --> 00:02:15,000
+Fire, burn and cold run, bubble.
+
+34
+00:02:15,000 --> 00:02:25,000
+Scale of dragon, tooth of wolf, which is mummy, more and gulf of the raven, soapsy shark.
+
+35
+00:02:25,000 --> 00:02:29,000
+Root of am luck did did the dark.
+
+36
+00:02:29,000 --> 00:02:34,000
+Liver of blaspheming dew, gall of goat and slips of you,
+
+37
+00:02:34,000 --> 00:02:37,000
+slivered in the moon's eclipse.
+
+38
+00:02:37,000 --> 00:02:41,000
+Knows of jerk and tartars lips.
+
+39
+00:02:41,000 --> 00:02:47,000
+Finger of births, strangled, babed, ditched, delivered by a trap.
+
+40
+00:02:47,000 --> 00:02:52,000
+Make the girl thick and slab.
+
+41
+00:02:52,000 --> 00:03:00,000
+Add there to a tiger's chor'd run for the ingredients of our cold run.
+
+42
+00:03:00,000 --> 00:03:04,000
+Double, toil and sorrow.
+
+43
+00:03:04,000 --> 00:03:09,000
+Fire, burn and cold run, bubble.
+
+44
+00:03:09,000 --> 00:03:16,000
+Cool it with a baboon's blood, then the charm is firm and good.
+
+45
+00:03:16,000 --> 00:03:18,000
+Enter heckety.
+
+46
+00:03:18,000 --> 00:03:24,000
+Well done, I commend your pains and everyone shall share the gains.
+
+47
+00:03:24,000 --> 00:03:29,000
+And how about the cold run, sing? Like hills and fairies it ring.
+
+48
+00:03:29,000 --> 00:03:33,000
+And chanting all that you put in.
+
+49
+00:03:33,000 --> 00:03:37,000
+Music and a song. Black spirits, etc.
+
+50
+00:03:37,000 --> 00:03:39,000
+Exit heckety.
+
+51
+00:03:39,000 --> 00:03:44,000
+By the prickling of my thumbs, something wicked this way comes.
+
+52
+00:03:44,000 --> 00:03:47,000
+Open locks, whoever knocks.
+
+53
+00:03:47,000 --> 00:03:49,000
+Enter McBath.
+
+54
+00:03:49,000 --> 00:03:54,000
+How now you secret black and midnight haggs? What is it you do?
+
+55
+00:03:54,000 --> 00:03:56,000
+Addied without name.
+
+56
+00:03:56,000 --> 00:03:59,000
+I conjure you by that which you profess.
+
+57
+00:03:59,000 --> 00:04:02,000
+How air you come to know it, answer me.
+
+58
+00:04:02,000 --> 00:04:06,000
+Though you untie the winds and let them fight against the churches,
+
+59
+00:04:06,000 --> 00:04:10,000
+though the yesty waves can found in swallow navigation up,
+
+60
+00:04:10,000 --> 00:04:14,000
+though bladed corn be lodged and trees blown down,
+
+61
+00:04:14,000 --> 00:04:16,000
+though castles topple on their waters heads,
+
+62
+00:04:16,000 --> 00:04:21,000
+though palaces and pyramids do slope their heads to their foundations,
+
+63
+00:04:21,000 --> 00:04:24,000
+though the treasure of nature's Germans tumble all together,
+
+64
+00:04:24,000 --> 00:04:29,000
+even till destruction's sicken, answer me to what I ask you.
+
+65
+00:04:29,000 --> 00:04:31,000
+Speak, demand.
+
+66
+00:04:31,000 --> 00:04:34,000
+We'll answer.
+
+67
+00:04:34,000 --> 00:04:39,000
+Say, if the head is rather here it from our mouths,
+
+68
+00:04:39,000 --> 00:04:41,000
+or from our masters.
+
+69
+00:04:41,000 --> 00:04:42,000
+Call him.
+
+70
+00:04:42,000 --> 00:04:43,000
+Let me see him.
+
+71
+00:04:43,000 --> 00:04:48,000
+Pour in, south's blood, that have eaten a nine-faro,
+
+72
+00:04:48,000 --> 00:04:52,000
+grease that sweatin' from the murderous gibbet,
+
+73
+00:04:52,000 --> 00:04:54,000
+throw it to the flame.
+
+74
+00:04:54,000 --> 00:04:58,000
+Come, high all o'er, that self-an office,
+
+75
+00:04:58,000 --> 00:05:04,000
+deathly show thunder, first apparition and armed head.
+
+76
+00:05:04,000 --> 00:05:06,000
+Tell me they're one-on-power.
+
+77
+00:05:06,000 --> 00:05:11,000
+He knows life ought, here is speech, but say thou not,
+
+78
+00:05:11,000 --> 00:05:17,000
+Macbeth, Macbeth, Macbeth, beware Macduff,
+
+79
+00:05:17,000 --> 00:05:23,000
+beware the thane of five, dismiss me, enough.
+
+80
+00:05:23,000 --> 00:05:25,000
+He descends.
+
+81
+00:05:25,000 --> 00:05:28,000
+But here thou art for thy good caution, thanks.
+
+82
+00:05:28,000 --> 00:05:32,000
+Thou has hopped my fero right, but one would more.
+
+83
+00:05:32,000 --> 00:05:37,000
+He will not be commanded, here's another more potent than the first.
+
+84
+00:05:37,000 --> 00:05:41,000
+Thunder, second apparition, a bloody child.
+
+85
+00:05:41,000 --> 00:05:46,000
+Macbeth, Macbeth, Macbeth, Macbeth.
+
+86
+00:05:46,000 --> 00:05:48,000
+Had I three ears, I'd hear thee.
+
+87
+00:05:48,000 --> 00:05:51,000
+Be bloody, bold, and resolute.
+
+88
+00:05:51,000 --> 00:05:56,000
+Lapt to scorn the power of man for none of woman born shall harm Macbeth.
+
+89
+00:05:56,000 --> 00:05:57,000
+Decends.
+
+90
+00:05:57,000 --> 00:06:06,000
+Then live Macduff, what need I fear of thee, but yet I'll make a sure-and-stouble sure-and-take-a-bond-of-fate.
+
+91
+00:06:06,000 --> 00:06:11,000
+Thou shall not live, that I may tell pale-hearted fear it lies,
+
+92
+00:06:11,000 --> 00:06:14,000
+and sleep in spite of thunder.
+
+93
+00:06:14,000 --> 00:06:20,000
+Thunder, third apparition, a child crowned with a tree in his hand.
+
+94
+00:06:20,000 --> 00:06:27,000
+What is this that rises like the issue of a king, and wears upon his baby brow the round-and-top of sovereignty?
+
+95
+00:06:27,000 --> 00:06:30,000
+Listen, but speak not to it.
+
+96
+00:06:30,000 --> 00:06:36,000
+Be lying, metal, proud, and take no care who chaves, who frets, or where conspires are.
+
+97
+00:06:36,000 --> 00:06:42,000
+Macbeth shall never vanquished be until great Burnham would to hide Duns and Inhill shall come against him.
+
+98
+00:06:42,000 --> 00:06:44,000
+Decends.
+
+99
+00:06:44,000 --> 00:06:51,000
+That will never be. Who can impress the forest, bid the tree unfixes earthbound route.
+
+100
+00:06:51,000 --> 00:06:57,000
+Sweet boldments good. Rebellious dead rise never till the wood of Burnham rise,
+
+101
+00:06:57,000 --> 00:07:04,000
+and our high-pleased Macbeth shall live the leeks of nature pay his breath to time and mortal custom.
+
+102
+00:07:04,000 --> 00:07:09,000
+Yet my heart throbs to know one thing. Tell me if your heart can tell so much.
+
+103
+00:07:09,000 --> 00:07:13,000
+Shall bankers issue ever rain in this kingdom?
+
+104
+00:07:13,000 --> 00:07:15,000
+She too know no more.
+
+105
+00:07:15,000 --> 00:07:17,000
+I will be satisfied.
+
+106
+00:07:17,000 --> 00:07:23,000
+Dun I may this an eternal curse fall on you. Let me know why things that call it and what noise is this.
+
+107
+00:07:23,000 --> 00:07:25,000
+Hold boys.
+
+108
+00:07:25,000 --> 00:07:33,000
+Show. Show. Show. Show. Show is I, and Grease out come like shadows.
+
+109
+00:07:33,000 --> 00:07:35,000
+So depart.
+
+110
+00:07:35,000 --> 00:07:40,000
+A show of eight kings and bank will last king with a glass in his hand.
+
+111
+00:07:40,000 --> 00:07:47,000
+There are two like the spirit of bank will down by crown does see my eyelids and I hear.
+
+112
+00:07:47,000 --> 00:07:52,000
+Though other goldbound brow is like the first. A third is like the former.
+
+113
+00:07:52,000 --> 00:07:56,000
+Fear of they hags why do you show me this? A fourth.
+
+114
+00:07:56,000 --> 00:08:01,000
+Start eyes. But with the line straight up to the crack of doom. Another yet.
+
+115
+00:08:01,000 --> 00:08:04,000
+Our seventh I will see no more.
+
+116
+00:08:04,000 --> 00:08:08,000
+And yet the eighth appears. Who bears a glass which shows me many more.
+
+117
+00:08:08,000 --> 00:08:12,000
+And some I see that twofold balls and treble septice carry.
+
+118
+00:08:12,000 --> 00:08:14,000
+Horrible sight.
+
+119
+00:08:14,000 --> 00:08:22,000
+Now I see it is true. For the blood bolted bank will smiles upon me and points it for his.
+
+120
+00:08:22,000 --> 00:08:24,000
+What is this so?
+
+121
+00:08:24,000 --> 00:08:30,000
+I sir. All this is so. But why stands Macbeth thus amazingly.
+
+122
+00:08:30,000 --> 00:08:35,000
+Consisters cheer we up his sprites and show the best of our delights.
+
+123
+00:08:35,000 --> 00:08:40,000
+I'll charm the air to give a sound while you perform your antic round.
+
+124
+00:08:40,000 --> 00:08:47,000
+That this great king make Ingley say our duties did his welcome day.
+
+125
+00:08:47,000 --> 00:08:51,000
+Music the witches dance and vanish.
+
+126
+00:08:51,000 --> 00:08:58,000
+Where are they? Come? Let this pernicious hour stand I a cursive in the calendar.
+
+127
+00:08:58,000 --> 00:09:00,000
+Come in without there.
+
+128
+00:09:00,000 --> 00:09:02,000
+Enter Lennox.
+
+129
+00:09:02,000 --> 00:09:03,000
+What's your grace as will?
+
+130
+00:09:03,000 --> 00:09:05,000
+So you the weird sisters?
+
+131
+00:09:05,000 --> 00:09:06,000
+No my lord.
+
+132
+00:09:06,000 --> 00:09:09,000
+Came they not by you? No indeed my lord.
+
+133
+00:09:09,000 --> 00:09:14,000
+Infected be the air where on they ride and damned all those that trust them.
+
+134
+00:09:14,000 --> 00:09:17,000
+I did hear the galloping of horses who was came by.
+
+135
+00:09:17,000 --> 00:09:22,000
+His two or three my lord that bring you word Macbeth is fled to England.
+
+136
+00:09:22,000 --> 00:09:23,000
+Flight to England?
+
+137
+00:09:23,000 --> 00:09:25,000
+I'm a good lord.
+
+138
+00:09:25,000 --> 00:09:26,000
+Aside.
+
+139
+00:09:26,000 --> 00:09:34,000
+Time though anticipates my dread exploits. The flighty purpose never is or took unless the deed go with it.
+
+140
+00:09:34,000 --> 00:09:39,000
+From this moment the very first things of my heart shall be the first things of my hand.
+
+141
+00:09:39,000 --> 00:09:44,000
+And even now to crown my thoughts with acts be it thought and done.
+
+142
+00:09:44,000 --> 00:09:46,000
+The castle of Macduff.
+
+143
+00:09:46,000 --> 00:09:48,000
+I will surprise.
+
+144
+00:09:48,000 --> 00:09:50,000
+Seize upon five.
+
+145
+00:09:50,000 --> 00:09:56,000
+Give to the edge of the sword his wife, his babes and all unfortunate souls that trace him in his line.
+
+146
+00:09:56,000 --> 00:09:58,000
+No boasting like a fool.
+
+147
+00:09:58,000 --> 00:10:01,000
+This deed I'll do before the purpose cool.
+
+148
+00:10:01,000 --> 00:10:03,000
+But no more sights.
+
+149
+00:10:03,000 --> 00:10:07,000
+Where are these gentlemen? Come bring me where they are.
+
+150
+00:10:07,000 --> 00:10:08,000
+Exit.
+
+151
+00:10:08,000 --> 00:10:11,000
+Seen two Macduff's castle.
+
+152
+00:10:11,000 --> 00:10:15,000
+Enter Macduff's wife, her son and Ross.
+
+153
+00:10:15,000 --> 00:10:18,000
+What had he done to make him fly the land?
+
+154
+00:10:18,000 --> 00:10:20,000
+You must have patience madam.
+
+155
+00:10:20,000 --> 00:10:23,000
+He had none. His flight was madness.
+
+156
+00:10:23,000 --> 00:10:27,000
+What our actions do not are fears to make us traders.
+
+157
+00:10:27,000 --> 00:10:30,000
+You know not whether it was his wisdom or his fear.
+
+158
+00:10:30,000 --> 00:10:31,000
+Wisdom.
+
+159
+00:10:31,000 --> 00:10:36,000
+To leave his wife, to leave his babes, his mansion and his titles,
+
+160
+00:10:36,000 --> 00:10:39,000
+in a place from whens himself does fly?
+
+161
+00:10:39,000 --> 00:10:41,000
+He loves us not.
+
+162
+00:10:41,000 --> 00:10:43,000
+He wants the natural touch.
+
+163
+00:10:43,000 --> 00:10:51,000
+For the poor ran the most dominative of birds will fight her young ones in her nest against the owl.
+
+164
+00:10:51,000 --> 00:10:53,000
+All is the fear.
+
+165
+00:10:53,000 --> 00:10:55,000
+And nothing is the love.
+
+166
+00:10:55,000 --> 00:11:00,000
+As little as the wisdom where the flight so runs against all reasons,
+
+167
+00:11:00,000 --> 00:11:02,000
+my dearest cousin.
+
+168
+00:11:02,000 --> 00:11:05,000
+I pray you are school yourself.
+
+169
+00:11:05,000 --> 00:11:11,000
+But for your husband he is noble, wise, judicious and best knows the fits of the seasons.
+
+170
+00:11:11,000 --> 00:11:14,000
+I dare not speak much further.
+
+171
+00:11:14,000 --> 00:11:18,000
+But cruel other times when we are traders and do not know ourselves.
+
+172
+00:11:18,000 --> 00:11:21,000
+When we hold room of from what we fear.
+
+173
+00:11:21,000 --> 00:11:27,000
+Yet no not what we fear but float upon a wild and violent sea each way and move.
+
+174
+00:11:27,000 --> 00:11:30,000
+I take my leave of you.
+
+175
+00:11:30,000 --> 00:11:33,000
+She will not be long but I will be here again.
+
+176
+00:11:33,000 --> 00:11:38,000
+Things that the worst will see so as climb up what they were before.
+
+177
+00:11:38,000 --> 00:11:40,000
+My pretty cousin.
+
+178
+00:11:40,000 --> 00:11:41,000
+Blessing upon you.
+
+179
+00:11:41,000 --> 00:11:44,000
+Father he is and yet he is fatherless.
+
+180
+00:11:44,000 --> 00:11:46,000
+I am so much a fool.
+
+181
+00:11:46,000 --> 00:11:48,000
+Should I stay longer?
+
+182
+00:11:48,000 --> 00:11:51,000
+It would be my disgrace and your discomfort.
+
+183
+00:11:51,000 --> 00:11:53,000
+I take my leave at once.
+
+184
+00:11:53,000 --> 00:11:54,000
+Exit.
+
+185
+00:11:54,000 --> 00:11:57,000
+Sir, your father's dead.
+
+186
+00:11:57,000 --> 00:11:59,000
+And what will you do now?
+
+187
+00:11:59,000 --> 00:12:01,000
+How will you live?
+
+188
+00:12:01,000 --> 00:12:03,000
+As birds do mother.
+
+189
+00:12:03,000 --> 00:12:04,000
+What?
+
+190
+00:12:04,000 --> 00:12:06,000
+With worms and flies?
+
+191
+00:12:06,000 --> 00:12:09,000
+With what I get I mean and so do they.
+
+192
+00:12:09,000 --> 00:12:10,000
+Poor bird.
+
+193
+00:12:10,000 --> 00:12:14,000
+Does never fear the net nor lie the pitfall nor the gin?
+
+194
+00:12:14,000 --> 00:12:16,000
+Why should I mother?
+
+195
+00:12:16,000 --> 00:12:17,000
+Poor birds.
+
+196
+00:12:17,000 --> 00:12:19,000
+They are not set for.
+
+197
+00:12:19,000 --> 00:12:22,000
+My father is not dead for all you are saying.
+
+198
+00:12:22,000 --> 00:12:24,000
+Yes he is dead.
+
+199
+00:12:24,000 --> 00:12:26,000
+How will they do for a father?
+
+200
+00:12:26,000 --> 00:12:27,000
+No.
+
+201
+00:12:27,000 --> 00:12:29,000
+How will you do for a husband?
+
+202
+00:12:29,000 --> 00:12:30,000
+Why?
+
+203
+00:12:30,000 --> 00:12:33,000
+I could buy me 20 at any market.
+
+204
+00:12:33,000 --> 00:12:35,000
+Then you buy him to sell again.
+
+205
+00:12:35,000 --> 00:12:37,000
+The speaks with all thy wit.
+
+206
+00:12:37,000 --> 00:12:40,000
+And yet he faith with wind enough for thee.
+
+207
+00:12:40,000 --> 00:12:42,000
+Was my father a trader mother?
+
+208
+00:12:42,000 --> 00:12:44,000
+I that he was.
+
+209
+00:12:44,000 --> 00:12:45,000
+What is a trader?
+
+210
+00:12:45,000 --> 00:12:46,000
+Why?
+
+211
+00:12:46,000 --> 00:12:49,000
+One that swears and flies.
+
+212
+00:12:49,000 --> 00:12:52,000
+And be all traders that do so.
+
+213
+00:12:52,000 --> 00:12:55,000
+Everyone that does so is a trader and must be hanged.
+
+214
+00:12:55,000 --> 00:12:58,000
+And must they all be hanged that swear and lie?
+
+215
+00:12:58,000 --> 00:12:59,000
+Everyone.
+
+216
+00:12:59,000 --> 00:13:01,000
+Who must hang them?
+
+217
+00:13:01,000 --> 00:13:02,000
+Why?
+
+218
+00:13:02,000 --> 00:13:03,000
+The honest man.
+
+219
+00:13:03,000 --> 00:13:06,000
+Then the liars and swears are fools.
+
+220
+00:13:06,000 --> 00:13:13,000
+For there are liars and swears and no to beat the honest man and hang up them.
+
+221
+00:13:13,000 --> 00:13:15,000
+How God help thee poor monkey.
+
+222
+00:13:15,000 --> 00:13:18,000
+But how will thou do for a father?
+
+223
+00:13:18,000 --> 00:13:21,000
+If he were dead, you'd weak for him.
+
+224
+00:13:21,000 --> 00:13:27,000
+If you will not, it were a good sign that I could quickly have a new father.
+
+225
+00:13:27,000 --> 00:13:28,000
+Poor Bratler.
+
+226
+00:13:28,000 --> 00:13:30,000
+How thou darkest?
+
+227
+00:13:30,000 --> 00:13:31,000
+Enter a messenger.
+
+228
+00:13:31,000 --> 00:13:32,000
+Bless you, Feldem.
+
+229
+00:13:32,000 --> 00:13:33,000
+I am not known to you.
+
+230
+00:13:33,000 --> 00:13:36,000
+Though in your state of honor I am perfect.
+
+231
+00:13:36,000 --> 00:13:40,000
+I doubt some danger does approach you nearly if you will take a homely man's advice.
+
+232
+00:13:40,000 --> 00:13:42,000
+Be not found here.
+
+233
+00:13:42,000 --> 00:13:45,000
+Hence with your little ones to fright you thus may think I am too savage.
+
+234
+00:13:45,000 --> 00:13:49,000
+To do worse to you were felt cruelty, which is too naive person.
+
+235
+00:13:49,000 --> 00:13:51,000
+Heaven preserve you.
+
+236
+00:13:51,000 --> 00:13:52,000
+I dare abide no longer.
+
+237
+00:13:52,000 --> 00:13:54,000
+Exit, messenger.
+
+238
+00:13:54,000 --> 00:13:56,000
+Whether should I fly.
+
+239
+00:13:56,000 --> 00:13:58,000
+I have done no harm.
+
+240
+00:13:58,000 --> 00:14:04,000
+But I remember now I am in this earthly world where to do harm is often lovable.
+
+241
+00:14:04,000 --> 00:14:08,000
+To do good sometimes I count a dangerous folly.
+
+242
+00:14:08,000 --> 00:14:14,000
+Why then, unless do I put up that womanly defense to say I have done no harm?
+
+243
+00:14:14,000 --> 00:14:17,000
+What are these faces?
+
+244
+00:14:17,000 --> 00:14:19,000
+Enter murderers.
+
+245
+00:14:19,000 --> 00:14:20,000
+Where's your husband?
+
+246
+00:14:20,000 --> 00:14:25,000
+I hope in no place so unsangified were such as thou may find him.
+
+247
+00:14:25,000 --> 00:14:26,000
+He's a traitor.
+
+248
+00:14:26,000 --> 00:14:29,000
+Thou lieest thou shagyard villain?
+
+249
+00:14:29,000 --> 00:14:30,000
+What you egg?
+
+250
+00:14:30,000 --> 00:14:32,000
+Stubbing him.
+
+251
+00:14:32,000 --> 00:14:34,000
+Young fry of treachery.
+
+252
+00:14:34,000 --> 00:14:36,000
+He has killed me mother.
+
+253
+00:14:36,000 --> 00:14:37,000
+Run away.
+
+254
+00:14:37,000 --> 00:14:38,000
+I pray you.
+
+255
+00:14:38,000 --> 00:14:39,000
+Dies.
+
+256
+00:14:39,000 --> 00:14:43,000
+Exit Lady MacDuff crying murder followed by murderer.
+
+257
+00:14:43,000 --> 00:14:47,000
+Seen three, England, before the king's palace.
+
+258
+00:14:47,000 --> 00:14:49,000
+Enter Malcolm and MacDuff.
+
+259
+00:14:49,000 --> 00:14:54,000
+Let us seek out some desolate shade in their weeper set bosom's empty.
+
+260
+00:14:54,000 --> 00:15:01,000
+Let us rather hold fast the mortal sword and like good men best ride our downfall, birthed him.
+
+261
+00:15:01,000 --> 00:15:05,000
+Each new more new widows how, new orphans cry.
+
+262
+00:15:05,000 --> 00:15:12,000
+New sorrows strike heaven on the face that have resounds as if it felt with Scotland and Yelms.
+
+263
+00:15:12,000 --> 00:15:15,000
+Scotland and Yelmed out like syllable of dollar.
+
+264
+00:15:15,000 --> 00:15:17,000
+What I believe, I'll well.
+
+265
+00:15:17,000 --> 00:15:21,000
+What no believe and what I can redress.
+
+266
+00:15:21,000 --> 00:15:24,000
+As I shall find the time to friend I will.
+
+267
+00:15:24,000 --> 00:15:27,000
+What you have spoke and may be so perchance.
+
+268
+00:15:27,000 --> 00:15:31,000
+This tyrant who soul-named blisters our tongues was once thought honest.
+
+269
+00:15:31,000 --> 00:15:34,000
+You have loved him well. He has not touched you yet.
+
+270
+00:15:34,000 --> 00:15:41,000
+I am young but something you may deserve of him through me and wisdom to offer up a weak poor innocent lamb.
+
+271
+00:15:41,000 --> 00:15:43,000
+To peas and angry God.
+
+272
+00:15:43,000 --> 00:15:46,000
+I am not treacherous but my path is.
+
+273
+00:15:46,000 --> 00:15:51,000
+A good and virtuous nature may recoil in an imperial charge.
+
+274
+00:15:51,000 --> 00:15:53,000
+But I shall crave your pardon.
+
+275
+00:15:53,000 --> 00:15:56,000
+That which you are, my thoughts cannot transpose.
+
+276
+00:15:56,000 --> 00:15:59,000
+Angels are bright still though the brightest fell.
+
+277
+00:15:59,000 --> 00:16:02,000
+Though all things foul would wear the brows of grace.
+
+278
+00:16:02,000 --> 00:16:04,000
+Yet grace must still look so.
+
+279
+00:16:04,000 --> 00:16:06,000
+I have lost my hopes.
+
+280
+00:16:06,000 --> 00:16:09,000
+Pretends even there where I did find my doubts.
+
+281
+00:16:09,000 --> 00:16:13,000
+Why in that raunus left you wife in child those precious motives.
+
+282
+00:16:13,000 --> 00:16:15,000
+Those strong knots of love without leave taking.
+
+283
+00:16:15,000 --> 00:16:17,000
+I pray you.
+
+284
+00:16:17,000 --> 00:16:19,000
+Let not my jealousy be your dishonors.
+
+285
+00:16:19,000 --> 00:16:21,000
+But my own safeties.
+
+286
+00:16:21,000 --> 00:16:24,000
+You may be rightly just whatever I shall think.
+
+287
+00:16:24,000 --> 00:16:26,000
+Bleed, bleed poor country.
+
+288
+00:16:26,000 --> 00:16:29,000
+Great tyranny lay thou thy basis sure.
+
+289
+00:16:29,000 --> 00:16:31,000
+For goodness down I check thee.
+
+290
+00:16:31,000 --> 00:16:33,000
+Well thou thy wrongs.
+
+291
+00:16:33,000 --> 00:16:35,000
+The title is a feared.
+
+292
+00:16:35,000 --> 00:16:37,000
+Fair thee well Lord.
+
+293
+00:16:37,000 --> 00:16:39,000
+I would not be the villain that thou thinks.
+
+294
+00:16:39,000 --> 00:16:44,000
+For the whole space that's in the tyrants grasp and the rich east to boot.
+
+295
+00:16:44,000 --> 00:16:45,000
+Be not offended.
+
+296
+00:16:45,000 --> 00:16:48,000
+I speak not as an absolute fear of you.
+
+297
+00:16:48,000 --> 00:16:50,000
+I think our country sinks beneath the yoke.
+
+298
+00:16:50,000 --> 00:16:52,000
+It weeps it bleeds in each new day.
+
+299
+00:16:52,000 --> 00:16:54,000
+A gash is added to her wounds.
+
+300
+00:16:54,000 --> 00:16:57,000
+I think with all there would be hands uplifted in my right.
+
+301
+00:16:57,000 --> 00:17:02,000
+And here from gracious England have I offer of goodly thousands.
+
+302
+00:17:02,000 --> 00:17:06,000
+But for all this, when I shall tread upon the tyrants head or wear it on my side.
+
+303
+00:17:06,000 --> 00:17:10,000
+Yet my poor country shall have more vices than it had before.
+
+304
+00:17:10,000 --> 00:17:13,000
+More suffer and more sundry ways than ever.
+
+305
+00:17:13,000 --> 00:17:15,000
+By him that shall succeed.
+
+306
+00:17:15,000 --> 00:17:17,000
+What should he be?
+
+307
+00:17:17,000 --> 00:17:21,000
+It is my self I mean in whom I know all the particulars of vice so graffed.
+
+308
+00:17:21,000 --> 00:17:26,000
+That when they shall be opened, black Macbeth will seem as pure as snow.
+
+309
+00:17:26,000 --> 00:17:30,000
+And the poor state esteem him as a lamb being compared with my confineless arms.
+
+310
+00:17:30,000 --> 00:17:35,000
+Not in the legions of harrowed elk and come a devil more damned in even
+
+311
+00:17:35,000 --> 00:17:37,000
+to top Macbeth.
+
+312
+00:17:37,000 --> 00:17:42,000
+I grant him bloody legionious, avaricious, false, deceitful, sudden, malicious,
+
+313
+00:17:42,000 --> 00:17:45,000
+smacking of every sin that has a name.
+
+314
+00:17:45,000 --> 00:17:48,000
+But there's no bottom none in my voluptuousness.
+
+315
+00:17:48,000 --> 00:17:52,000
+Your wives, your daughters, your matrons and your maids could not fill up the
+
+316
+00:17:52,000 --> 00:17:56,000
+cistern of my lust and my desire all continent impediments would
+
+317
+00:17:56,000 --> 00:17:58,000
+or bear that did oppose my will.
+
+318
+00:17:58,000 --> 00:18:01,000
+Better Macbeth than such and one to reign.
+
+319
+00:18:01,000 --> 00:18:04,000
+Boudless in temperance in nature is a tyranny.
+
+320
+00:18:04,000 --> 00:18:10,000
+It has been the untimely emptying of the happy throne and fall of many kings.
+
+321
+00:18:10,000 --> 00:18:13,000
+But fear not yet to take upon you what is yours.
+
+322
+00:18:13,000 --> 00:18:18,000
+You may convey your pleasures in a spacious plenty and yet seem cold.
+
+323
+00:18:18,000 --> 00:18:20,000
+The time you may so hoodwink.
+
+324
+00:18:20,000 --> 00:18:26,000
+We have willing deems enough that cannot be that voucher in you to devour so many
+
+325
+00:18:26,000 --> 00:18:30,000
+as will to greatness dedicate themselves, finding it so inclined.
+
+326
+00:18:30,000 --> 00:18:36,000
+With this their grows in my most ill-composed affection such a stancheless
+
+327
+00:18:36,000 --> 00:18:40,000
+Everest that where I king I should cut off the nobles for their lands, desire his
+
+328
+00:18:40,000 --> 00:18:44,000
+jewels and this other's house and my more having would be as a
+
+329
+00:18:44,000 --> 00:18:49,000
+suss to make me hunger more that I should forge quarrels unjust against the
+
+330
+00:18:49,000 --> 00:18:51,000
+good and loyal destroying them for wealth.
+
+331
+00:18:51,000 --> 00:18:56,000
+This Everest sticks deeper, grows with more pernicious root than some
+
+332
+00:18:56,000 --> 00:19:00,000
+of the most unforeseen lust and it has been the sword of our slain kings.
+
+333
+00:19:00,000 --> 00:19:07,000
+Yet do not fear, Scotland hath foysens to fill up your will of your mirrown, all these are
+
+334
+00:19:07,000 --> 00:19:09,000
+portable with other graces wade.
+
+335
+00:19:09,000 --> 00:19:11,000
+But I have none.
+
+336
+00:19:11,000 --> 00:19:16,000
+The king becoming graces as justice, verity, temperance, stavleness,
+
+337
+00:19:16,000 --> 00:19:21,000
+bounty, perseverance, mercy, loneliness, devotion, patience, courage,
+
+338
+00:19:21,000 --> 00:19:25,000
+fortitude, I have no relish of them, but abound in the division of each
+
+339
+00:19:25,000 --> 00:19:29,000
+several crime, acting it many ways.
+
+340
+00:19:29,000 --> 00:19:34,000
+Nay had I power I should pour the sweet milk of concord into hell, uproar the
+
+341
+00:19:34,000 --> 00:19:37,000
+universal peace, confound all unity on earth.
+
+342
+00:19:37,000 --> 00:19:39,000
+Oh, Scotland, Scotland!
+
+343
+00:19:39,000 --> 00:19:45,000
+If such a one be fit to govern speak, I am as I have spoken.
+
+344
+00:19:45,000 --> 00:19:51,000
+Fit to govern, no, not to live, own nation miserable, with an unsightled,
+
+345
+00:19:51,000 --> 00:19:57,000
+tyrant bloody sceptored, when shall thou see thy wholesome days again, since that the
+
+346
+00:19:57,000 --> 00:20:03,000
+truest issue of thy throne, by his own introduction stands a curse, and as blasphemous
+
+347
+00:20:03,000 --> 00:20:09,000
+breed thy royal father was the most seated king, the queen the bore thee,
+
+348
+00:20:09,000 --> 00:20:16,000
+offender upon her knees than on her feet, died every day she lived, fair thee well.
+
+349
+00:20:16,000 --> 00:20:21,000
+These evils thou repeatest upon thy self have banished me from Scotland.
+
+350
+00:20:21,000 --> 00:20:24,000
+Oh, my breast thy whole bends here.
+
+351
+00:20:24,000 --> 00:20:29,000
+Make doth this noble passion, child of integrity, hath from my soul wiped the black
+
+352
+00:20:29,000 --> 00:20:33,000
+scruples, reconciled my thoughts to thy good truth and honor.
+
+353
+00:20:33,000 --> 00:20:39,000
+Devilish mech, Beth, by many of these trains, hath sought to win me into his power and
+
+354
+00:20:39,000 --> 00:20:45,000
+modest wisdom plucks me, from over credulous haste, but God above,
+
+355
+00:20:45,000 --> 00:20:52,000
+deal between thee and me. For even now I put myself to thy direction, an unspeaked
+
+356
+00:20:52,000 --> 00:20:58,000
+mind-owned detraction, here abdure the taints and blanes I laid upon myself, for strangers
+
+357
+00:20:58,000 --> 00:21:02,000
+to my nature I am yet unknown to woman, never was for sworn.
+
+358
+00:21:02,000 --> 00:21:08,000
+Scaresly have coveted what was my own, at no time broke my faith, would not betray the devil
+
+359
+00:21:08,000 --> 00:21:13,000
+to his fellow and delight no less in truth than life. My first false speaking was this
+
+360
+00:21:13,000 --> 00:21:20,000
+upon myself. What I am truly is thine and my poor countries to command, wither indeed before
+
+361
+00:21:20,000 --> 00:21:27,000
+thy hear approach, my seward with ten thousand warlike men, already at a point was setting
+
+362
+00:21:27,000 --> 00:21:34,000
+forth, now we'll together in the chance of goodness be like our warranted quarrel. Why are you silent?
+
+363
+00:21:34,000 --> 00:21:39,000
+Such welcome and unwelcome things at once, to his heart to reconcile.
+
+364
+00:21:39,000 --> 00:21:45,000
+Enter a doctor. Well, more and more, comes the king forth, I pray you.
+
+365
+00:21:45,000 --> 00:21:51,320
+I, sir, there are a crew of wretched souls that stay his cure. Their melody convinces the
+
+366
+00:21:51,320 --> 00:21:58,000
+great assay of art, but at his touch, such sanctity, have heaven given his hand they presently
+
+367
+00:21:58,000 --> 00:22:01,000
+amend. I thank you, doctor.
+
+368
+00:22:01,000 --> 00:22:04,000
+Exit, doctor. What's the disease he means?
+
+369
+00:22:04,000 --> 00:22:11,000
+To his call, the evil. A most miraculous work in this good king, which often since my hear remain in
+
+370
+00:22:11,000 --> 00:22:18,000
+England, I have seen him do. How he solicits heaven, himself best knows, but strangely visited
+
+371
+00:22:18,000 --> 00:22:25,000
+people all swan and ulcerous pitiful to the eye, the mere despair of surgery he cures, hanging a golden stamp
+
+372
+00:22:25,000 --> 00:22:32,000
+about their necks, put on with holy prayers and to his spoken, to the succeeding royalty he leaves the healing
+
+373
+00:22:32,000 --> 00:22:39,000
+action, with this strange virtue he had a heavenly gift of prophecy, and sundry blessings hang about his throne
+
+374
+00:22:39,000 --> 00:22:47,000
+that speak him full of grace. Enter Ross. See who comes here. My countrymen, but yet I know him not.
+
+375
+00:22:47,000 --> 00:22:54,000
+My ever-gettle cousin, welcome, Hither. I know him now, good God, be times remove the means that makes a strangers.
+
+376
+00:22:54,000 --> 00:22:58,000
+Sir, a men. Stands Scotland where it did.
+
+377
+00:22:58,000 --> 00:23:07,000
+Mass for country. Almost afraid to know itself. It cannot be called a mother, but a grave. Where nothing,
+
+378
+00:23:07,000 --> 00:23:15,000
+but who knows nothing is once seen to smile. Where size and groans and shrieks that rent the air are made,
+
+379
+00:23:15,000 --> 00:23:25,000
+not marked, where violent sorrow seems a modern ecstasy. The dead man's nell is their scarce asked for who.
+
+380
+00:23:25,000 --> 00:23:31,000
+And good men's lives expire before the flowers in their caps, dying or are they sicken.
+
+381
+00:23:31,000 --> 00:23:36,000
+Oh, relation to nice and yet too true. What's the newest grief?
+
+382
+00:23:36,000 --> 00:23:43,000
+That of a now-as-age, Darth Hiss, the speaker, each minute teams a new one. How does my wife?
+
+383
+00:23:43,000 --> 00:23:49,000
+Why well? And all my children? Well, too. The tyrant has not battered at their peace.
+
+384
+00:23:49,000 --> 00:23:55,000
+No, they were well at peace when I did leave him. Be not a negative of your speech, how goes?
+
+385
+00:23:55,000 --> 00:24:03,000
+When I came here to transport the tidings of which I have heavily born, there ran a rumor of many worthy fellows that were out,
+
+386
+00:24:03,000 --> 00:24:11,000
+which was to my belief, witness the rather for the race or the tyrants power of what? Now is the time of help.
+
+387
+00:24:11,000 --> 00:24:18,000
+Your eye in Scotland would create soldiers, make our women fight to tough their dire distresses.
+
+388
+00:24:18,000 --> 00:24:25,000
+Beat their comfort, we are coming thither. Gracious England, Hathlentus, could seeward and 10,000 men,
+
+389
+00:24:25,000 --> 00:24:29,000
+an older and a better soldier, none, that Christendom gives out.
+
+390
+00:24:29,000 --> 00:24:35,000
+What could I answer this comfort with the like? But I have words that would be hollowed out in the desert air.
+
+391
+00:24:35,000 --> 00:24:40,000
+Where hearing should not latch them. What concern, thee? The general cause,
+
+392
+00:24:40,000 --> 00:24:43,000
+or is it a fee grief, due to some single breast?
+
+393
+00:24:43,000 --> 00:24:49,000
+No mind that's honest, but in it shares some woe, though the main part pertains to you alone.
+
+394
+00:24:49,000 --> 00:24:52,000
+If it be mine, keep it not from me. Quickly let me have it.
+
+395
+00:24:52,000 --> 00:24:59,000
+Let not your ears despise my tongue forever, which shall possess them with the heaviest sound that ever yet they heard.
+
+396
+00:24:59,000 --> 00:25:06,000
+I guess at it. Your castle is surprised. Your wife and babe savagely slaughtered.
+
+397
+00:25:06,000 --> 00:25:12,000
+To relate the manner where, on the quarry of these murder dare to add the death of you.
+
+398
+00:25:12,000 --> 00:25:17,000
+Merciful heaven, what man, near pull your hat upon your brows, give sorrow words,
+
+399
+00:25:17,000 --> 00:25:22,000
+the grief that does not speak whisper as the or fraught heart and bids it break.
+
+400
+00:25:22,000 --> 00:25:28,000
+My children too. Wife, children, servants, all that could be found.
+
+401
+00:25:28,000 --> 00:25:33,000
+And I must be from then. My wife killed two. I have said.
+
+402
+00:25:33,000 --> 00:25:38,000
+Be comforted. Let's make us medicines of our great revenge to cure this deadly grief.
+
+403
+00:25:38,000 --> 00:25:46,000
+He has no children. All my pretty ones. Do you say all? Oh, hell, kite? All?
+
+404
+00:25:46,000 --> 00:25:52,000
+What all my pretty chickens under dam at one fell swoop disputed like a man?
+
+405
+00:25:52,000 --> 00:26:00,000
+I shall do so, but I must also feel it as a man. I cannot but remember such things were that were most precious to me.
+
+406
+00:26:00,000 --> 00:26:03,000
+Did heaven look on and would not take their pot?
+
+407
+00:26:03,000 --> 00:26:13,000
+Sinful Macduff, they were all struck for thee, not that I am, not for their own merits, but for mine fell slother on their souls.
+
+408
+00:26:13,000 --> 00:26:21,000
+Heaven rest them now. Be this the wheatstone of your sword. Let grief convert to anger, blunt, not the heart, in rage it.
+
+409
+00:26:21,000 --> 00:26:29,000
+Oh, I could play the woman with my eyes and brag it with my tongue, but jettle heavens cut short all into mission.
+
+410
+00:26:29,000 --> 00:26:35,000
+Front to front bring thou this feigned of Scotland and myself within my swords length, set him.
+
+411
+00:26:35,000 --> 00:26:38,000
+If he escaped, heaven forgive him too.
+
+412
+00:26:38,000 --> 00:26:45,000
+This time goes manly. Come go we to the king. Our power is ready. Our lack is nothing but our leave.
+
+413
+00:26:45,000 --> 00:26:50,000
+Macbeth is right for shaking and the powers above put on their instruments.
+
+414
+00:26:50,000 --> 00:26:54,000
+Receive what cheer you may, the night is long that never finds the day.
+
+415
+00:26:54,000 --> 00:26:55,000
+Exit.
