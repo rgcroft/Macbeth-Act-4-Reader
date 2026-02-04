@@ -71,7 +71,7 @@
 
         .container {
             display: flex;
-            height: calc(100vh - 240px);
+            height: calc(100vh - 320px);
             padding: 20px;
             gap: 20px;
         }
@@ -254,147 +254,6 @@
         <p>Act IV - Interactive Reading Experience</p>
     </div>
 
-    <div class="tab-container">
-        <button class="tab-button active" onclick="switchVersion('original')">Original Text</button>
-        <button class="tab-button" onclick="switchVersion('nofear')">No Fear Shakespeare</button>
-    </div>
-
-    <div class="container">
-        <div class="pdf-viewer">
-            <iframe id="pdfFrame" src="macbeth_no_fear_script.pdf#page=44"></iframe>
-        </div>
-
-        <div class="sidebar">
-            <h2>Key Moments</h2>
-
-            <div class="scene-marker">Scene i: A Witches' Haunt</div>
-
-            <div class="moment" data-time="0" data-original-page="44" data-nofear-page="1">
-                <div class="moment-time">00:00</div>
-                <div class="moment-page">Page 44 | Lines 1-5</div>
-                <div class="moment-desc">The three witches gather around a boiling cauldron</div>
-            </div>
-
-            <div class="moment" data-time="15" data-original-page="44" data-nofear-page="1">
-                <div class="moment-time">00:15</div>
-                <div class="moment-page">Page 44 | Lines 10-36</div>
-                <div class="moment-desc">Witches brew their potion with grotesque ingredients</div>
-            </div>
-
-            <div class="moment" data-time="90" data-original-page="45" data-nofear-page="2">
-                <div class="moment-time">01:30</div>
-                <div class="moment-page">Page 45 | Lines 45-49</div>
-                <div class="moment-desc">Macbeth arrives and demands answers from the witches</div>
-            </div>
-
-            <div class="moment" data-time="120" data-original-page="46" data-nofear-page="3">
-                <div class="moment-time">02:00</div>
-                <div class="moment-page">Page 46 | Lines 71-74</div>
-                <div class="moment-desc">First Apparition: An armed head warns "Beware Macduff"</div>
-            </div>
-
-            <div class="moment" data-time="155" data-original-page="46" data-nofear-page="3">
-                <div class="moment-time">02:35</div>
-                <div class="moment-page">Page 46 | Lines 79-82</div>
-                <div class="moment-desc">Second Apparition: A bloody child says "none of woman born shall harm Macbeth"</div>
-            </div>
-
-            <div class="moment" data-time="185" data-original-page="47" data-nofear-page="4">
-                <div class="moment-time">03:05</div>
-                <div class="moment-page">Page 47 | Lines 92-95</div>
-                <div class="moment-desc">Third Apparition: A crowned child with a tree - Birnam Wood prophecy</div>
-            </div>
-
-            <div class="moment" data-time="245" data-original-page="48" data-nofear-page="5">
-                <div class="moment-time">04:05</div>
-                <div class="moment-page">Page 48 | Lines 112-124</div>
-                <div class="moment-desc">Vision of eight kings descending from Banquo, haunting Macbeth</div>
-            </div>
-
-            <div class="moment" data-time="310" data-original-page="49" data-nofear-page="6">
-                <div class="moment-time">05:10</div>
-                <div class="moment-page">Page 49 | Lines 140-154</div>
-                <div class="moment-desc">Lennox brings news that Macduff has fled to England</div>
-            </div>
-
-            <div class="scene-marker">Scene ii: Macduff's Castle</div>
-
-            <div class="moment" data-time="350" data-original-page="50" data-nofear-page="7">
-                <div class="moment-time">05:50</div>
-                <div class="moment-page">Page 50 | Lines 1-30</div>
-                <div class="moment-desc">Lady Macduff and Ross discuss Macduff's flight to England</div>
-            </div>
-
-            <div class="moment" data-time="450" data-original-page="50" data-nofear-page="8">
-                <div class="moment-time">07:30</div>
-                <div class="moment-page">Page 50 | Lines 30-63</div>
-                <div class="moment-desc">Lady Macduff's conversation with her son about his father</div>
-            </div>
-
-            <div class="moment" data-time="520" data-original-page="51" data-nofear-page="9">
-                <div class="moment-time">08:40</div>
-                <div class="moment-page">Page 51 | Lines 65-75</div>
-                <div class="moment-desc">A messenger warns Lady Macduff to flee with her children</div>
-            </div>
-
-            <div class="moment" data-time="550" data-original-page="51" data-nofear-page="9">
-                <div class="moment-time">09:10</div>
-                <div class="moment-page">Page 51 | Lines 77-84</div>
-                <div class="moment-desc">Murderers arrive and kill Macduff's son</div>
-            </div>
-
-            <div class="scene-marker">Scene iii: England, Before the King's Palace</div>
-
-            <div class="moment" data-time="600" data-original-page="52" data-nofear-page="10">
-                <div class="moment-time">10:00</div>
-                <div class="moment-page">Page 52 | Lines 1-10</div>
-                <div class="moment-desc">Malcolm and Macduff meet in England</div>
-            </div>
-
-            <div class="moment" data-time="700" data-original-page="53" data-nofear-page="12">
-                <div class="moment-time">11:40</div>
-                <div class="moment-page">Page 53 | Lines 39-100</div>
-                <div class="moment-desc">Malcolm tests Macduff's loyalty by falsely confessing vices</div>
-            </div>
-
-            <div class="moment" data-time="900" data-original-page="55" data-nofear-page="15">
-                <div class="moment-time">15:00</div>
-                <div class="moment-page">Page 55 | Lines 101-139</div>
-                <div class="moment-desc">Malcolm reveals he was testing Macduff and is actually virtuous</div>
-            </div>
-
-            <div class="moment" data-time="1050" data-original-page="56" data-nofear-page="17">
-                <div class="moment-time">17:30</div>
-                <div class="moment-page">Page 56 | Lines 140-159</div>
-                <div class="moment-desc">A doctor describes King Edward's healing powers</div>
-            </div>
-
-            <div class="moment" data-time="1150" data-original-page="57" data-nofear-page="18">
-                <div class="moment-time">19:10</div>
-                <div class="moment-page">Page 57 | Lines 160-173</div>
-                <div class="moment-desc">Ross arrives with news from Scotland</div>
-            </div>
-
-            <div class="moment" data-time="1300" data-original-page="58" data-nofear-page="20">
-                <div class="moment-time">21:40</div>
-                <div class="moment-page">Page 58 | Lines 204-210</div>
-                <div class="moment-desc">Ross delivers the devastating news of the massacre</div>
-            </div>
-
-            <div class="moment" data-time="1420" data-original-page="58" data-nofear-page="21">
-                <div class="moment-time">23:40</div>
-                <div class="moment-page">Page 58 | Lines 216-228</div>
-                <div class="moment-desc">Macduff's grief: "All my pretty ones? Did you say all?"</div>
-            </div>
-
-            <div class="moment" data-time="1510" data-original-page="59" data-nofear-page="22">
-                <div class="moment-time">25:10</div>
-                <div class="moment-page">Page 59 | Lines 230-240</div>
-                <div class="moment-desc">Malcolm urges Macduff to channel grief into rage against Macbeth</div>
-            </div>
-        </div>
-    </div>
-
     <div class="audio-controls">
         <button class="control-btn" onclick="skipBackward()">⏪ -10s</button>
         <audio id="audioPlayer" controls>
@@ -412,6 +271,147 @@
                 <option value="1.5">1.5x</option>
                 <option value="2">2x</option>
             </select>
+        </div>
+    </div>
+
+    <div class="tab-container">
+        <button class="tab-button active" onclick="switchVersion('original')">Original Text</button>
+        <button class="tab-button" onclick="switchVersion('nofear')">No Fear Shakespeare</button>
+    </div>
+
+    <div class="container">
+        <div class="pdf-viewer">
+            <iframe id="pdfFrame" src="26_Macbeth_Act_IV_Complete.pdf#page=1"></iframe>
+        </div>
+
+        <div class="sidebar">
+            <h2>Key Moments</h2>
+
+            <div class="scene-marker">Scene i: A Witches' Haunt</div>
+
+            <div class="moment" data-time="0" data-original-page="3" data-nofear-page="1">
+                <div class="moment-time">00:00</div>
+                <div class="moment-page">Page 3 | Lines 1-5</div>
+                <div class="moment-desc">The three witches gather around a boiling cauldron</div>
+            </div>
+
+            <div class="moment" data-time="15" data-original-page="3" data-nofear-page="1">
+                <div class="moment-time">00:15</div>
+                <div class="moment-page">Page 3 | Lines 10-36</div>
+                <div class="moment-desc">Witches brew their potion with grotesque ingredients</div>
+            </div>
+
+            <div class="moment" data-time="90" data-original-page="4" data-nofear-page="2">
+                <div class="moment-time">01:30</div>
+                <div class="moment-page">Page 4 | Lines 45-49</div>
+                <div class="moment-desc">Macbeth arrives and demands answers from the witches</div>
+            </div>
+
+            <div class="moment" data-time="120" data-original-page="5" data-nofear-page="3">
+                <div class="moment-time">02:00</div>
+                <div class="moment-page">Page 5 | Lines 71-74</div>
+                <div class="moment-desc">First Apparition: An armed head warns "Beware Macduff"</div>
+            </div>
+
+            <div class="moment" data-time="155" data-original-page="5" data-nofear-page="3">
+                <div class="moment-time">02:35</div>
+                <div class="moment-page">Page 5 | Lines 79-82</div>
+                <div class="moment-desc">Second Apparition: A bloody child says "none of woman born shall harm Macbeth"</div>
+            </div>
+
+            <div class="moment" data-time="185" data-original-page="6" data-nofear-page="4">
+                <div class="moment-time">03:05</div>
+                <div class="moment-page">Page 6 | Lines 92-95</div>
+                <div class="moment-desc">Third Apparition: A crowned child with a tree - Birnam Wood prophecy</div>
+            </div>
+
+            <div class="moment" data-time="245" data-original-page="7" data-nofear-page="5">
+                <div class="moment-time">04:05</div>
+                <div class="moment-page">Page 7 | Lines 112-124</div>
+                <div class="moment-desc">Vision of eight kings descending from Banquo, haunting Macbeth</div>
+            </div>
+
+            <div class="moment" data-time="310" data-original-page="8" data-nofear-page="6">
+                <div class="moment-time">05:10</div>
+                <div class="moment-page">Page 8 | Lines 140-154</div>
+                <div class="moment-desc">Lennox brings news that Macduff has fled to England</div>
+            </div>
+
+            <div class="scene-marker">Scene ii: Macduff's Castle</div>
+
+            <div class="moment" data-time="350" data-original-page="9" data-nofear-page="7">
+                <div class="moment-time">05:50</div>
+                <div class="moment-page">Page 9 | Lines 1-30</div>
+                <div class="moment-desc">Lady Macduff and Ross discuss Macduff's flight to England</div>
+            </div>
+
+            <div class="moment" data-time="450" data-original-page="10" data-nofear-page="7">
+                <div class="moment-time">07:30</div>
+                <div class="moment-page">Page 10 | Lines 30-63</div>
+                <div class="moment-desc">Lady Macduff's conversation with her son about his father</div>
+            </div>
+
+            <div class="moment" data-time="520" data-original-page="11" data-nofear-page="8">
+                <div class="moment-time">08:40</div>
+                <div class="moment-page">Page 11 | Lines 65-75</div>
+                <div class="moment-desc">A messenger warns Lady Macduff to flee with her children</div>
+            </div>
+
+            <div class="moment" data-time="550" data-original-page="11" data-nofear-page="8">
+                <div class="moment-time">09:10</div>
+                <div class="moment-page">Page 11 | Lines 77-84</div>
+                <div class="moment-desc">Murderers arrive and kill Macduff's son</div>
+            </div>
+
+            <div class="scene-marker">Scene iii: England, Before the King's Palace</div>
+
+            <div class="moment" data-time="600" data-original-page="12" data-nofear-page="9">
+                <div class="moment-time">10:00</div>
+                <div class="moment-page">Page 12 | Lines 1-10</div>
+                <div class="moment-desc">Malcolm and Macduff meet in England</div>
+            </div>
+
+            <div class="moment" data-time="700" data-original-page="13" data-nofear-page="10">
+                <div class="moment-time">11:40</div>
+                <div class="moment-page">Page 13 | Lines 39-100</div>
+                <div class="moment-desc">Malcolm tests Macduff's loyalty by falsely confessing vices</div>
+            </div>
+
+            <div class="moment" data-time="900" data-original-page="15" data-nofear-page="12">
+                <div class="moment-time">15:00</div>
+                <div class="moment-page">Page 15 | Lines 101-139</div>
+                <div class="moment-desc">Malcolm reveals he was testing Macduff and is actually virtuous</div>
+            </div>
+
+            <div class="moment" data-time="1050" data-original-page="17" data-nofear-page="13">
+                <div class="moment-time">17:30</div>
+                <div class="moment-page">Page 17 | Lines 140-159</div>
+                <div class="moment-desc">A doctor describes King Edward's healing powers</div>
+            </div>
+
+            <div class="moment" data-time="1150" data-original-page="18" data-nofear-page="14">
+                <div class="moment-time">19:10</div>
+                <div class="moment-page">Page 18 | Lines 160-173</div>
+                <div class="moment-desc">Ross arrives with news from Scotland</div>
+            </div>
+
+            <div class="moment" data-time="1300" data-original-page="19" data-nofear-page="15">
+                <div class="moment-time">21:40</div>
+                <div class="moment-page">Page 19 | Lines 204-210</div>
+                <div class="moment-desc">Ross delivers the devastating news of the massacre</div>
+            </div>
+
+            <div class="moment" data-time="1420" data-original-page="20" data-nofear-page="15">
+                <div class="moment-time">23:40</div>
+                <div class="moment-page">Page 20 | Lines 216-228</div>
+                <div class="moment-desc">Macduff's grief: "All my pretty ones? Did you say all?"</div>
+            </div>
+
+            <div class="moment" data-time="1510" data-original-page="21" data-nofear-page="16">
+                <div class="moment-time">25:10</div>
+                <div class="moment-page">Page 21 | Lines 230-240</div>
+                <div class="moment-desc">Malcolm urges Macduff to channel grief into rage against Macbeth</div>
+            </div>
         </div>
     </div>
 
@@ -457,7 +457,7 @@
             const pageAttr = currentVersion === 'original' ? 'data-original-page' : 'data-nofear-page';
             const page = moment.getAttribute(pageAttr);
             if (page) {
-                const pdfSrc = currentVersion === 'original' ? 'macbeth_no_fear_script.pdf' : '26_Macbeth_Act_IV_Complete.pdf';
+                const pdfSrc = currentVersion === 'original' ? '26_Macbeth_Act_IV_Complete.pdf' : 'Macbeth_NoFear_Act_4.pdf';
                 pdfFrame.src = `${pdfSrc}#page=${page}`;
             }
         }
@@ -469,13 +469,14 @@
             // Update tab buttons
             const tabs = document.querySelectorAll('.tab-button');
             tabs.forEach(tab => tab.classList.remove('active'));
-            event.target.classList.add('active');
-
-            // Update PDF source
+            
+            // Find and activate the correct tab
             if (version === 'original') {
-                pdfFrame.src = 'macbeth_no_fear_script.pdf#page=44';
-            } else {
+                tabs[0].classList.add('active');
                 pdfFrame.src = '26_Macbeth_Act_IV_Complete.pdf#page=1';
+            } else {
+                tabs[1].classList.add('active');
+                pdfFrame.src = 'Macbeth_NoFear_Act_4.pdf#page=1';
             }
 
             // Update page references in sidebar
@@ -490,7 +491,7 @@
                 const lines = pageElement.textContent.split('|')[1];
                 
                 if (currentVersion === 'original') {
-                    pageElement.textContent = `Page ${originalPage} |${lines}`;
+                    pageElement.textContent = `Original: Page ${originalPage} |${lines}`;
                 } else {
                     pageElement.textContent = `No Fear: Page ${nofearPage} | Original: Page ${originalPage} |${lines}`;
                 }
